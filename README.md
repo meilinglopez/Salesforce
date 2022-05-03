@@ -169,6 +169,16 @@ Los artículos se basan en tipos de artículos, que se basan en:
 
 ![alt text](https://github.com/meilinglopez/Salesforce/blob/main/modelo%20entidad%20relacion.png)
 
-# Algunos conceptos de Salesforce
-## __
-## __
+# Soluciones de Salesforce
+## _¿Qué es Salesforce?_
+Salesforce es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma de gestión de relaciones con los clientes CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
+
+## _¿Qué es Sales Cloud?_
+
+## _¿Qué es Service Cloud?_
+
+## _¿Qué es Health Cloud?_
+
+## _¿Qué es Marketing Cloud?_
+
+
