@@ -169,6 +169,8 @@ Los artículos se basan en tipos de artículos, que se basan en:
 - Diseños tipo artículo para organizar el contenido en secciones.
 - Plantillas de tipo artículo para renderizar artículos.
 
+## _Relaciones entre los ojetos de salesforce mencionados antes_
+
 ![alt text](https://github.com/meilinglopez/Salesforce/blob/main/modelo%20entidad%20relacion.png)
 
 # Soluciones de Salesforce
@@ -301,7 +303,7 @@ Una API o interfaz de programación de aplicaciones es un conjunto de definicion
 ## _¿Qué es un Proceso Batch?_
 Se conoce como sistema por lotes, o modo batch, a la ejecución de un programa sin el control o supervisión directa del usuario que se denomina. Este tipo de programas se caracterizan porque su ejecución no precisa ningún tipo de interacción con el usuario.
 
-## _¿Qué es Kanban?
+## _¿Qué es Kanban?_
 Es un sistema de información que controla de modo armónico la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica, como entre distintas empresas.
 
 ## _¿Qué es un ERP?_
