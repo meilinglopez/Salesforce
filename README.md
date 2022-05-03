@@ -141,11 +141,31 @@ Las oportunidades son acuerdos en curso. En Salesforce, puede crear oportunidade
 Las oportunidades son ventas pasadas o pendientes de una cuenta que desea trabajar y/o rastrear. Las oportunidades juegan un papel importante en una organización porque representan ventas y ventas potenciales. Usando Oportunidades podemos pronosticar las ventas en una organización, realizar un seguimiento de sus negocios, comprender mejor a quién le está vendiendo y enfocar los esfuerzos de su equipo.
 
 ## _Product_
+Los productos en Salesforce son un servicio o artículo que la empresa vende a los clientes. Después de definir los productos, puedes asociarlos a los precios que hayas establecido en el libro de precios.
+
 ## _PriceBook_
+Un libro de precios es una lista de productos y sus precios asociados. Cada producto y su precio se denomina entrada del libro de precios. El libro de precios proporcionará una lista de los productos y los diferentes precios de los productos. Salesforce proporcionará libros de precios estándar y personalizados, lo que facilita tener múltiples precios para un producto.
+
+En otras palabras, podemos decir que a veces los precios de los productos difieren según el cliente; puede depender de quién compra, cuándo compra o en qué cantidad. Para dar cabida a esta flexibilidad, un Producto puede existir en Salesforce con muchos precios asociados diferentes, utilizando una función llamada Libros de precios y Entradas de libros de precios.
+
 ## _Quote_
+
+Las cotizaciones en Salesforce representan los precios propuestos de los productos y servicios de su empresa. Usted crea una cotización a partir de una oportunidad y sus productos. Cada oportunidad puede tener varias cotizaciones asociadas y cualquiera de ellas se puede sincronizar con la oportunidad. Cuando se sincronizan un presupuesto y una oportunidad, cualquier cambio en los elementos de línea del presupuesto se sincroniza con los productos de la oportunidad y viceversa.
+
 ## _Asset_
+
+Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente.
+Un activo en Salesforce representa un producto específico comprado o instalado. Por ejemplo, si vende robots, puede crear un producto Robot en Salesforce y luego crear múltiples activos que representen los robots que ha vendido. El robot de cada cliente se rastrearía en su propio registro de activos que está vinculado al producto Robot.
+
 ## _Case_
+Un caso es una pregunta, comentario o problema de un cliente. Los agentes de soporte pueden revisar los casos para ver cómo pueden brindar un mejor servicio. Los representantes de ventas pueden usar casos para ver cómo afectan el proceso de ventas. Responder a los casos mantiene contentos a sus clientes y mejora su marca.
+
 ## _Article_
+Los artículos capturan información sobre los productos y servicios de su empresa que desea que estén disponibles en su base de conocimiento. Los artículos de la base de conocimientos se pueden clasificar mediante una o más categorías de datos para facilitar a los usuarios la búsqueda de los artículos que necesitan. Los administradores pueden usar categorías de datos para controlar el acceso a los artículos.
+
+Los artículos se basan en tipos de artículos, que se basan en:
+- Diseños tipo artículo para organizar el contenido en secciones.
+- Plantillas de tipo artículo para renderizar artículos.
 
 
 # Algunos conceptos de Salesforce
