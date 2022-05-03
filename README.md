@@ -110,6 +110,8 @@ Content-Type: text/tml; charset=utf-8
 ```
 
 
+# SALESFORCE
+
 # Trailhead realizado
 
 Se realizó el trailhead:
@@ -209,15 +211,57 @@ Muestra los campos clave de un registro de un vistazo en la aplicación móvil S
 Definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación. Cuando cree usuarios, asigne un perfil a cada uno.
 
 ## _¿Qué es un Rol?_
+Controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización. Usuarios en cualquier función dada pueden ver, editar, e informar sobre todos los datos para funciones por debajo de ellos en la jerarquía de roles.
+
 ## _¿Qué es un Validation Rule?_
+Verifican que los datos que un usuario ingresa en un registro cumplen con los estándares que usted especifica antes de que el usuario pueda guardar el registro . Una regla de validación puede contener una fórmula o expresión que evalúa los datos en uno o más campos y devuelve un valor de "Verdadero" o "Falso".
+ 
 ## _¿Qué diferencia hay entre una relación Master Detail y Lookup?_
+
+Relación Master Detail:
+- Es un registro estrechamente acoplado que tiene una dependencia directa entre los dos objetos. 
+- También se puede describir como una relación padre-hijo.
+- El registro de detalle no se puede crear sin un maestro.
+- Las reglas de colaboración se heredan del maestro al registro de detalles.
+- No podemos actualizar la relación con el maestro en una relación maestro-detalle.
+- El número de relaciones maestro-detalle que se pueden usar está limitado a 2.
+- Las relaciones maestro-detalle se incluyen automáticamente en los tipos de registros de informes.
+- Tampoco podemos establecer los permisos del objeto de perfil para el registro de detalles.
+- Si se elimina un registro maestro, el registro de su detalle también se elimina junto con él, es decir, implementa la eliminación en cascada.
+- El resumen acumulado se puede crear en un detalle maestro.
+
+Lookup
+- Este tipo de relación se puede usar cuando solo necesitamos tener la relación entre dos objetos pero no una dependencia directa entre sí.
+- Esta es una relación débilmente acoplada.
+- Estos se utilizan para hacer referencia a datos compartidos comúnmente, como datos de referencia.
+- El número máximo de relaciones de búsqueda en un campo puede ser 40.
+- Se utilizan para vincular dos objetos cuando no queremos tener el comportamiento del maestro-detalle, como reglas de uso compartido, permisos de perfil y eliminación en cascada.
+- Las búsquedas se utilizan cuando necesitamos relacionar varios "principales" con el registro de detalles.
+- La eliminación del padre solo elimina el campo relacionado en el hijo, pero no todo el registro.
+- Este tipo de relación también es como una relación de uno a muchos.
+
 ## _¿Qué es un Sandbox?_
+Un sandbox es simplemente una copia de su base de datos que puede usar para probar nuevas ideas . A menudo, cuando trabaja con un consultor en una nueva funcionalidad para su base de datos, la crearán y la demostrarán en un espacio aislado antes de que se convierta en parte de su base de datos real.
+
 ## _¿Qué es un ChangeSet?_
+Utilice ChangeSet para enviar personalizaciones de una organización de Salesforce a otra. Por ejemplo, puede crear y probar un nuevo objeto en una organización sandbox y luego enviarlo a su organización de producción mediante un ChangeSet. Los ChangeSet solo pueden contener modificaciones que puede realizar a través del menú Configuración. Por ejemplo, no puede usar un ChangeSet para cargar una lista de registros de contactos. LosChangeSet contienen información sobre la organización. No contienen datos, como registros.
+
 ## _¿Para qué sirve el import Wizard de Salesforce?_
+Facilita la importación de datos para muchos objetos estándar de Salesforce, incluidas cuentas, contactos, clientes potenciales, soluciones, miembros de campaña y cuentas personales . También puede importar datos para objetos personalizados. Puede importar hasta 50.000 registros a la vez.
+
 ## _¿Para qué sirve la funcionalidad Web to Lead??_
+Web to lead es una función estándar de Salesforce que permite al usuario generar registros de leads, permite recopilar hasta 500 clientes potenciales por día con los datos de prospección de los visitantes del sitio web de su empresa. También puede redirigir a los clientes potenciales a otras páginas web que son fundamentales para el éxito de la campaña.
+
 ## _¿Para qué sirve la funcionalidad Web to Case?_
-## _¿Para qué sirve la funcionalidad Web to Lead??_
+Salesforce Web-to-Case permite a las organizaciones generar un formulario web que pueden agregar en el sitio web de su empresa mediante el cual sus clientes de Soporte y servicio pueden crear fácilmente un caso dentro de Salesforce.com.
+
 ## _¿Para qué sirve la funcionalidad Omnichannel?_
+Es una característica flexible y personalizable, y puede configurarla de forma declarativa, es decir, sin escribir código. Utilice Omni-Channel para administrar la prioridad de los elementos de trabajo, lo que facilita enrutar elementos de trabajo importantes a los agentes rápidamente. Administre la capacidad de sus agentes para asumir elementos de trabajo para que solo se les asigne la cantidad de tareas que pueden manejar. También puede definir qué agentes pueden trabajar en diferentes tipos de asignaciones. Por ejemplo, puede crear un grupo de agentes para responder a clientes potenciales y consultas de ventas, y otro grupo que ayude a los clientes con preguntas de soporte.
+
 ## _¿Para qué sirve la funcionalidad Chatter?_
+Es una herramienta de comunicación dentro de Salesforce.com diseñada especialmente para la interacción y retroalimentación instantánea, el intercambio de archivos y la utilización de encuestas entre los miembros de tu departamento comercial
 
 
+
+# Algunos conceptos de Salesforce
+## _Lead_
