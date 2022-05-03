@@ -262,6 +262,40 @@ Es una característica flexible y personalizable, y puede configurarla de forma 
 Es una herramienta de comunicación dentro de Salesforce.com diseñada especialmente para la interacción y retroalimentación instantánea, el intercambio de archivos y la utilización de encuestas entre los miembros de tu departamento comercial
 
 
+# Conceptos generales
+## _¿Qué significa SaaS?_
+Software como un Servicio o SaaS es un modelo de distribución de software donde el soporte lógico y los respectivos datos que maneja se alojan en los servidores de un proveedor, cuyo acceso es a través de Internet. El proveedor no solo proporciona el hardware, sino también el software correspondiente.
 
-# Algunos conceptos de Salesforce
-## _Lead_
+## _¿Salesforce es Saas?_
+Si, es un modelo de licencia y distribución que ofrece software a través de Internet. Las aplicaciones de software como servicio suelen estar alojadas y gestionadas por un proveedor externo mediante suscripción.
+
+## _¿Qué significa que una solución sea Cloud?_##
+Es una tecnología que permite el acceso remoto a softwares, procesamiento de datos y almacenamiento de archivos a través de Internet. No demanda la instalación de aplicaciones a nivel local, sino que ofrece los servicios a gran escala gracias a la conectividad.
+ 
+## _¿Qué significa que una solución sea On-Premise?_
+
+A diferencia del software basado en la nube, el software on-premise está instalado en los servidores y dispositivos locales de la empresa. Esto permite tener acceso físico a la información y control directo de la configuración, manejo y seguridad de esos datos.
+
+## _¿Qué es un pipeline de ventas?_
+Es el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes. También conocido como embudo de ventas, es una herramienta de gestión que se usa para observar las etapas de ventas con ciclos medios o largos.
+
+## _¿Qué es un funnel de ventas?_
+Es un sistema diseñado para atraer a desconocidos, convertirlos en leads y transformarlos en clientes. Así de fácil, así de simple. En pocas palabras, el objetivo del funnel es: Conseguir clientes potenciales.
+
+## _¿Qué significa Customer Experience?_
+El Customer Experience o Experiencia de Cliente es “el recuerdo que se genera en la mente del consumidor como consecuencia de su relación con la marca”.
+
+## _¿Qué significa omnicanalidad?_
+Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.
+
+## _¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?
+El término B2B nace de la expresión en inglés “business to business” (empresa a empresa). Es decir, son las ventas de una empresa a otra.
+B2C es el acrónimo en inglés de “business to consumer” (empresa a consumidor). Es decir, es un modelo de negocio en el que una empresa le vende de forma directa al consumidor final.
+
+## _¿Qué es un KPI?__
+## _¿Qué es una API y en qué se diferencia de una Rest API?_
+## _¿Qué es un Proceso Batch?_
+## _¿Qué es Kanban?
+## _¿Qué es un ERP?_
+## _¿Salesforce es un ERP?_
+
