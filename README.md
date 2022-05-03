@@ -167,7 +167,7 @@ Los artículos se basan en tipos de artículos, que se basan en:
 - Diseños tipo artículo para organizar el contenido en secciones.
 - Plantillas de tipo artículo para renderizar artículos.
 
-![alt text](https://github.com/[meilinglopez]/[reponame]/blob/[branch]/modelo_entidad_relacion.png?raw=true)
+
 
 # Algunos conceptos de Salesforce
 ## __
