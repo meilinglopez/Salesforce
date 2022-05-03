@@ -288,14 +288,25 @@ El Customer Experience o Experiencia de Cliente es “el recuerdo que se genera 
 ## _¿Qué significa omnicanalidad?_
 Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.
 
-## _¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?
+## _¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?_
 El término B2B nace de la expresión en inglés “business to business” (empresa a empresa). Es decir, son las ventas de una empresa a otra.
 B2C es el acrónimo en inglés de “business to consumer” (empresa a consumidor). Es decir, es un modelo de negocio en el que una empresa le vende de forma directa al consumidor final.
 
-## _¿Qué es un KPI?__
+## _¿Qué es un KPI?_
+Conocido también como indicador clave o medidor de desempeño o indicador clave de rendimiento, es una medida del nivel del rendimiento de un proceso. El valor del indicador está directamente relacionado con un objetivo fijado previamente y normalmente se expresa en valores porcentuales.
+
 ## _¿Qué es una API y en qué se diferencia de una Rest API?_
+Una API o interfaz de programación de aplicaciones es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones. Una API de REST, o API de RESTful, es una interfaz de programación de aplicaciones (API o API web) que se ajusta a los límites de la arquitectura REST y permite la interacción con los servicios web de RESTful. El informático Roy Fielding es el creador de la transferencia de estado representacional (REST).
+
 ## _¿Qué es un Proceso Batch?_
+Se conoce como sistema por lotes, o modo batch, a la ejecución de un programa sin el control o supervisión directa del usuario que se denomina. Este tipo de programas se caracterizan porque su ejecución no precisa ningún tipo de interacción con el usuario.
+
 ## _¿Qué es Kanban?
+Es un sistema de información que controla de modo armónico la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica, como entre distintas empresas.
+
 ## _¿Qué es un ERP?_
+La planificación de recursos empresariales, también conocida como ERP, es un sistema que ayuda a automatizar y administrar los procesos empresariales de distintas áreas: finanzas, fabricación, venta al por menor, cadena de suministro, recursos humanos y operaciones.
+
 ## _¿Salesforce es un ERP?_
+si
 
