@@ -187,4 +187,37 @@ Health Cloud es una plataforma especialmente diseñada para la gestión clínica
 ## _¿Qué es Marketing Cloud?_
 Marketing Cloud es una plataforma de marketing digital de Salesforce que incluye herramientas para el marketing por correo electrónico, el marketing a través de redes sociales, el marketing para dispositivos móviles, la publicidad online y la automatización del marketing.
 
+# Funcionalidades de Salesforce
+## _¿Qué es un RecordType?_
+
+Los Record Types en Salesforce nos permiten definir diferentes Business Process, Pages Layouts y Picklist Values en un determinado objeto. Así mismo, los Record Types nos ayudan a mostrar distintos tipos de información según el perfil del usuario.
+
+## _¿Qué es un ReportType?_
+
+los informes se crean seleccionando primero un tipo de informe. Un tipo de informe es una plantilla que define los objetos y campos que estarán disponibles para usar en el informe que cree . De fábrica, Salesforce proporciona muchos tipos de informes estándar útiles. Hay dos tipos de tipos de informes: tipos de informes estándar y tipos de informes personalizados.
+
+## _¿Qué es un Page Layout?_
+
+se utilizan para controlar el diseño de las páginas de Salesforce. Puede controlar las ubicaciones de botones, campos, enlaces personalizados, Visualforce, s-controls y listas relacionadas en cualquier página de registro de objetos.
+
+Los diseños de página también se utilizan para determinar qué campos se marcan como visibles, de solo lectura o obligatorios en las páginas de registros de objetos. Determinan qué datos se mostrarán a qué usuarios. Casi todos los elementos de una página de objetos de Salesforce se pueden personalizar mediante las funciones de diseño de página estándar o mediante el código personalizado de Visualforce.
+
+## _¿Qué es un Compact Layout?_
+Muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+
+## _¿Qué es un Perfil?_
+Definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación. Cuando cree usuarios, asigne un perfil a cada uno.
+
+## _¿Qué es un Rol?_
+## _¿Qué es un Validation Rule?_
+## _¿Qué diferencia hay entre una relación Master Detail y Lookup?_
+## _¿Qué es un Sandbox?_
+## _¿Qué es un ChangeSet?_
+## _¿Para qué sirve el import Wizard de Salesforce?_
+## _¿Para qué sirve la funcionalidad Web to Lead??_
+## _¿Para qué sirve la funcionalidad Web to Case?_
+## _¿Para qué sirve la funcionalidad Web to Lead??_
+## _¿Para qué sirve la funcionalidad Omnichannel?_
+## _¿Para qué sirve la funcionalidad Chatter?_
+
 
